@@ -15,5 +15,6 @@ Created a simple replica of League of Legends Vayne in-game crossbow through May
 View Model: https://sketchfab.com/3d-models/vayne-crossbow-5e42295001984d31b6116a5966a32e32
 
 ## Other Links
-LinkedIn: https://www.linkedin.com/in/karl-sun-3947b1176/
-Handshake: https://rit.joinhandshake.com/users/14310005
+LinkedIn: https://www.linkedin.com/in/karl-sun-3947b1176/ <br>
+Handshake: https://rit.joinhandshake.com/users/14310005 <br>
+Portfolio: https://sunkarl0730.wixsite.com/portfolio
