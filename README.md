@@ -1,7 +1,7 @@
 # Projects
 
 
-### To download ArabianKnight project please visit my portfolio at 
+### To download ArabianKnight project please visit my portfolio at https://sunkarl0730.wixsite.com/portfolio
 
 
 ## ArabianKnight: 
@@ -13,3 +13,7 @@ A score based game created using Unity that challenges players to dodge and dest
 ## Vayne CrossBow
 Created a simple replica of League of Legends Vayne in-game crossbow through Maya. The 3D model comes with it's own UV Map, ambient occlusion, and normal map.<br>
 View Model: https://sketchfab.com/3d-models/vayne-crossbow-5e42295001984d31b6116a5966a32e32
+
+## Other Links
+LinkedIn: https://www.linkedin.com/in/karl-sun-3947b1176/
+Handshake: https://rit.joinhandshake.com/users/14310005
