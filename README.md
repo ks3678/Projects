@@ -3,6 +3,8 @@
 
 ### To download ArabianKnight and HvZ please visit my portfolio at https://sunkarl0730.wixsite.com/portfolio
 
+## HvZ AI Stimulator
+An interactive humans vs. zombies AI simulator created through Unity. This stimulation implements a wide range of autonomous agents such as seek, flee, pursuit, evade, obstacle avoidance, and much more. This experience enables users to experiment with both physics and AI intelligence.
 
 ## ArabianKnight: 
 Worked with a group of 3 to create a 2D top-down game in MonoGame using Visual Studio and C#. The game shares unique handcrafted textures and a level editor was created to allow for easier development of levels.Taking place in the middle-east, ArabianKnight focuses on eliminating obstacles in order to achieve the goal of assassinating the crime boss. I personally developed the main character, including its controls, abilities, GUI, and attack detection, allowing players to experience a smooth gameplay while exploring different strategies to complete the level.
