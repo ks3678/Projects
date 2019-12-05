@@ -1,7 +1,7 @@
 # Projects
 
 
-### To download ArabianKnight project please visit my portfolio at https://sunkarl0730.wixsite.com/portfolio
+### To download ArabianKnight and HvZ please visit my portfolio at https://sunkarl0730.wixsite.com/portfolio
 
 
 ## ArabianKnight: 
