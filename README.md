@@ -1,7 +1,7 @@
 # Projects
 
 
-### To download ArabianKnight and HvZ please visit my portfolio at https://sunkarl0730.wixsite.com/portfolio
+### To download ArabianKnight and HvZ please visit my portfolio at https://people.rit.edu/ks3678/235/Portfolio/index.html
 
 ## HvZ AI Stimulator
 An interactive humans vs. zombies AI simulator created through Unity. This stimulation implements a wide range of autonomous agents such as seek, flee, pursuit, evade, obstacle avoidance, and much more. This experience enables users to experiment with both physics and AI intelligence.
