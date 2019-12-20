@@ -17,9 +17,9 @@ Created a simple replica of League of Legends Vayne in-game crossbow through May
 View Model: https://sketchfab.com/3d-models/vayne-crossbow-5e42295001984d31b6116a5966a32e32
 
 ## Farm-Tastic
-•	Worked with another game developer to develop an online farming game through the usage of HTML, JavaScript, and PixiJS API
-•	Ensured the proper detection of mouse interactions within the game while setting up various events to occur when conditions are met
-• Helped create 2 in-game tools: grow-booster and seed-maker
+•	Worked with another game developer to develop an online farming game through the usage of HTML, JavaScript, and PixiJS API<br>
+•	Ensured the proper detection of mouse interactions within the game while setting up various events to occur when conditions are met<br>
+• Helped create 2 in-game tools: grow-booster and seed-maker<br>
 Link: https://people.rit.edu/ks3678/235/Portfolio/projects.html
 
 
